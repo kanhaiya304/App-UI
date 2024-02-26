@@ -414,7 +414,7 @@
              height:50px;
              width:50px;
              background-image: url("img10.jpg");
-             background-size: contain;
+             background-size: cover;
              border-radius:4px;
          }
          
